@@ -1,0 +1,45 @@
+.sketch1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.sketch1-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #000000;
+}
+.sketch1-navlink {
+  display: contents;
+}
+.sketch1-text {
+  color: rgb(255, 255, 255);
+  font-size: 1em;
+  transition: 0.3s;
+  margin-left: 1.5%;
+  text-decoration: none;
+}
+.sketch1-text:hover {
+  font-size: 1.1em;
+}
+.sketch1-text1 {
+  color: rgb(255, 255, 255);
+  font-size: 1.5em;
+  margin-right: 1.5%;
+}
+.sketch1-text2 {
+  font-size: 0.5em;
+}
+.sketch1-text3 {
+  font-size: 0.5em;
+}
+.sketch1-text4 {
+  font-size: 1em;
+}
