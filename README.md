@@ -1,2 +1,4 @@
 # Testpool
-you can test my genart works here
+
+> [!NOTE]
+> This project is way old!
